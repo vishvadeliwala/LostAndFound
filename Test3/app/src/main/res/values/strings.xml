@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Lost And Found</string>
+    <string-array name="year1">
+        <item>Choose:</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="sem">
+        <item>Choose:</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="branch">
+        <item>Choose:</item>
+        <item>CE</item>
+        <item>EC</item>
+        <item>CH</item>
+        <item>CL</item>
+        <item>MH</item>
+        <item>IT</item>
+        <item>IC</item>
+    </string-array>
+
+    <string-array name="spinnerCategory">
+        <item>Choose:</item>
+        <item>Stationary</item>
+        <item>Electronics</item>
+        <item>Bags And Bottles</item>
+        <item>Others</item>
+    </string-array>
+
+
+</resources>

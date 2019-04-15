@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1038899709985",
+    "firebase_url": "https://lostandfoundapp-6f7a2.firebaseio.com",
+    "project_id": "lostandfoundapp-6f7a2",
+    "storage_bucket": "lostandfoundapp-6f7a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038899709985:android:72aa91157860c92f",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038899709985-3rlr7c2hpbs3221d83sgat3qm7vrf4ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.test",
+            "certificate_hash": "ca919d26234c240cd5a22aec4432a07a11fdb6d5"
+          }
+        },
+        {
+          "client_id": "1038899709985-t9f9id9fhc5fgfrvkmaajmsjpalu2c83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0QueleAz173F8I0sAalQ5-YojVUW7Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038899709985-t9f9id9fhc5fgfrvkmaajmsjpalu2c83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
